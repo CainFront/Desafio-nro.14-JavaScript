@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Paladar Negro</title>
+
+    <!--Google fonts-->
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!--Box icons-->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css"
+    />
+    <!--Links-->
+    <link rel="shortcut icon" href="./images/icono.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+  <body>
+    <!--Header-->
+    <nav class="navBar">
+      <div class="navBarContenedor container">
+        <div class="navBarContendorLogo">
+          <a href="./index.html"><img src="./images/logo.png" alt="logo" /></a>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Formulario -->
+    <form class="formulario">
+      <div class="contacto">
+        <h2 class="contactoTitulo">Datos de contacto</h2>
+
+        <label for="email">Correo electronico:</label>
+        <input type="email" name="email" id="email" placeholder="Email" />
+
+        <label for="codigoPostal">Codigo Postal</label>
+        <input
+          type="number"
+          name="codigoPostal"
+          id="codigoPostal"
+          placeholder="Código Postal"
+        />
+        <a
+          class="btnCP"
+          href="https://www.correoargentino.com.ar/formularios/cpa"
+          target="_blank"
+          >Encontrá tu CP</a
+        >
+
+        <label for="direccion">Direccion:</label>
+        <input
+          type="text"
+          name="direccion"
+          id="direccion"
+          placeholder="Direccion"
+        />
+
+        <a href="#" class="contactoBtn">CONTINUAR</a>
+      </div>
+      <div class="entrega">
+        <h2 class="contactoTitulo">Entrega</h2>
+        <label for="EnvioInput">Medio de Envio:</label>
+        <select class="u-full-width" id="EnvioInput">
+          <option value="Retira en Local">Retira en Local</option>
+          <option value="Delivery a Domicilio">Delivery a domicilio</option>
+          <option value="PedidoYa">PedidoYa</option>
+          <option value="Otros">Otros</option>
+        </select>
+
+        <label for="nombre">Nombre y Apellido:</label>
+        <input
+          type="text"
+          name="nombre"
+          id="nombreApellido"
+          placeholder="Nombre y Apellido"
+        />
+
+        <label for="telefono">Telefono:</label>
+        <input
+          type="number"
+          name="telefono"
+          id="telefono"
+          placeholder="Telefono"
+        />
+        <button type="submit" class="confirmarCompra" onclick="confirmar()">
+          CONFIRMAR COMPRA
+        </button>
+      </div>
+    </form>
+    <script src="./js/jquery-3.6.0.min.js"></script>
+    <script src="https://unpkg.com/boxicons@latest/dist/boxicons.js"></script>
+    <script src="./js/scripts.js"></script>
+  </body>
+</html>

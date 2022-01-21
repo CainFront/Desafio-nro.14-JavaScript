@@ -1,0 +1,257 @@
+{
+  "status": "success",
+  "items": [
+    {
+      "id": 1,
+      "title": "Guaca-Fantastica",
+      "price": 399,
+      "image": "./images/menu/1-carne/id-1.png",
+      "category": "carne"
+    },
+    {
+      "id": 2,
+      "title": "Irresistiblemente",
+      "price": 229,
+      "image": "./images/menu/1-carne/id-2.png",
+      "category": "carne"
+    },
+    {
+      "id": 3,
+      "title": "La Bacon XL",
+      "price": 299,
+      "image": "./images/menu/1-carne/id-3.png",
+      "category": "carne"
+    },
+    {
+      "id": 4,
+      "title": "La Bacon",
+      "price": 199,
+      "image": "./images/menu/1-carne/id-4.png",
+      "category": "carne"
+    },
+    {
+      "id": 5,
+      "title": "Cuarto Simple",
+      "price": 139,
+      "image": "./images/menu/1-carne/id-5.png",
+      "category": "carne"
+    },
+    {
+      "id": 6,
+      "title": "Extra Burger XL",
+      "price": 299,
+      "image": "./images/menu/1-carne/id-6.png",
+      "category": "carne"
+    },
+    {
+      "id": 7,
+      "title": "Marcapasos Doble",
+      "price": 399,
+      "image": "./images/menu/1-carne/id-7.png",
+      "category": "carne"
+    },
+    {
+      "id": 8,
+      "title": "Marcapasos Triple",
+      "price": 449,
+      "image": "./images/menu/1-carne/id-8.png",
+      "category": "carne"
+    },
+    {
+      "id": 9,
+      "title": "Marcapasos Cuádruple",
+      "price": 499,
+      "image": "./images/menu/1-carne/id-9.png",
+      "category": "carne"
+    },
+    {
+      "id": 10,
+      "title": "Guaca-Fantastica de Pollo",
+      "price": 229,
+      "image": "./images/menu/2-pollo/id-10.png",
+      "category": "pollo"
+    },
+    {
+      "id": 11,
+      "title": "Irresistiblemente de Pollo",
+      "price": 229,
+      "image": "./images/menu/2-pollo/id-11.png",
+      "category": "pollo"
+    },
+    {
+      "id": 12,
+      "title": "Pollo al Pepino",
+      "price": 199,
+      "image": "./images/menu/2-pollo/id-12.png",
+      "category": "pollo"
+    },
+    {
+      "id": 13,
+      "title": "Pollo al Ensalada",
+      "price": 199,
+      "image": "./images/menu/2-pollo/id-13.png",
+      "category": "pollo"
+    },
+    {
+      "id": 14,
+      "title": "Principe al Yogur",
+      "price": 159,
+      "image": "./images/menu/2-pollo/id-14.png",
+      "category": "pollo"
+    },
+    {
+      "id": 15,
+      "title": "Rey Felipe V",
+      "price": 149,
+      "image": "./images/menu/2-pollo/id-15.png",
+      "category": "pollo"
+    },
+    {
+      "id": 16,
+      "title": "Ensalada Caesar con Pollo",
+      "price": 299,
+      "image": "./images/menu/3-ensalada/id-16.png",
+      "category": "ensaladas"
+    },
+    {
+      "id": 17,
+      "title": "Aros de cebolla",
+      "price": 120,
+      "image": "./images/menu/4-acompañamientos/id-17.png",
+      "category": "acompañamientos"
+    },
+    {
+      "id": 18,
+      "title": "Nuggets",
+      "price": 99,
+      "image": "./images/menu/4-acompañamientos/id-18.png",
+      "category": "acompañamientos"
+    },
+    {
+      "id": 19,
+      "title": "Papas Cheddar",
+      "price": 139,
+      "image": "./images/menu/4-acompañamientos/id-19.png",
+      "category": "acompañamientos"
+    },
+    {
+      "id": 20,
+      "title": "Papas Cheddar Bacon",
+      "price": 159,
+      "image": "./images/menu/4-acompañamientos/id-20.png",
+      "category": "acompañamientos"
+    },
+    {
+      "id": 21,
+      "title": "Papas Ciboulette",
+      "price": 139,
+      "image": "./images/menu/4-acompañamientos/id-21.png",
+      "category": "acompañamientos"
+    },
+    {
+      "id": 22,
+      "title": "Papas Fritas",
+      "price": 120,
+      "image": "./images/menu/4-acompañamientos/id-22.png",
+      "category": "acompañamientos"
+    },
+    {
+      "id": 23,
+      "title": "Tostado Fotocopia",
+      "price": 299,
+      "image": "./images/menu/5-desayunos/id-23.png",
+      "category": "desayunos"
+    },
+    {
+      "id": 24,
+      "title": "Café",
+      "price": 80,
+      "image": "./images/menu/5-desayunos/id-24.png",
+      "category": "desayunos"
+    },
+    {
+      "id": 25,
+      "title": "Café con Leche",
+      "price": 90,
+      "image": "./images/menu/5-desayunos/id-25.png",
+      "category": "desayunos"
+    },
+    {
+      "id": 26,
+      "title": "Lágrima",
+      "price": 119,
+      "image": "./images/menu/5-desayunos/id-26.png",
+      "category": "desayunos"
+    },
+    {
+      "id": 27,
+      "title": "Café + tres facturas",
+      "price": 199,
+      "image": "./images/menu/5-desayunos/id-27.png",
+      "category": "desayunos"
+    },
+    {
+      "id": 28,
+      "title": "Café con Muffin",
+      "price": 249,
+      "image": "./images/menu/5-desayunos/id-28.png",
+      "category": "desayunos"
+    },
+    {
+      "id": 29,
+      "title": "Café con Muffin marmoleado",
+      "price": 249,
+      "image": "./images/menu/5-desayunos/id-29.png",
+      "category": "desayunos"
+    },
+    {
+      "id": 30,
+      "title": "Café con Tostado Fotocopia",
+      "price": 299,
+      "image": "./images/menu/5-desayunos/id-30.png",
+      "category": "desayunos"
+    },
+    {
+      "id": 31,
+      "title": "Combo con Hamburgesa con queso",
+      "price": 239,
+      "image": "./images/menu/6-niños/id-31.png",
+      "category": "niños"
+    },
+    {
+      "id": 32,
+      "title": "Combo con Nuggets x4",
+      "price": 239,
+      "image": "./images/menu/6-niños/id-32.png",
+      "category": "niños"
+    },
+    {
+      "id": 33,
+      "title": "Helado Mix Rocklets",
+      "price": 150,
+      "image": "./images/menu/7-postres/id-33.png",
+      "category": "postres"
+    },
+    {
+      "id": 34,
+      "title": "Helado Mix Toddy Cookies",
+      "price": 150,
+      "image": "./images/menu/7-postres/id-34.png",
+      "category": "postres"
+    },
+    {
+      "id": 35,
+      "title": "Sundae",
+      "price": 130,
+      "image": "./images/menu/7-postres/id-35.png",
+      "category": "postres"
+    },
+    {
+      "id": 36,
+      "title": "Helado Mix Mani",
+      "price": 150,
+      "image": "./images/menu/7-postres/id-36.png",
+      "category": "postres"
+    }
+  ]
+}
